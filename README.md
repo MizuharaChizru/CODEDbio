@@ -4,9 +4,9 @@
 
 > https://bio.coded.top/yourname
 
-You can create your own page even if you sus at programming or coding.
+You can create your own page even if you sus:) at programming or coding.
 
-You only have to do just follow these steps below :)
+You only have to do just follow these step :)
 
 
 ### 1 Copy this and fill it with your details 
