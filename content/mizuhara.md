@@ -12,6 +12,7 @@ github: "K-136" # Use your github username
 youtube: "" # Paste your youtube channel url
 buymeacoffee: "mizuhara" # Your Buymeacoffee username only username
 patreon: "kurzgesagt" # your patreon username 
+verified:true
 ---
 
 <!-- Use this area for introduce yourself 'USE MARKDOWN'-->
