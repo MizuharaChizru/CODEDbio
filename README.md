@@ -85,9 +85,9 @@ patreon: "kurzgesagt"
 
 ### Follow this Image tutorial 
 
-<img src="static/images/a.jpg" width="100" />
+<img src="static/images/a.jpg" />
 <br/>
-<img src="static/images/b.jpg" width="100" />
+<img src="static/images/b.jpg" />
 
 ### Watch this video
 
