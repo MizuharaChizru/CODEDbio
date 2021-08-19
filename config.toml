@@ -1,3 +1,3 @@
-baseURL = 'http://coded-bio.vercel.app/'
+baseURL = 'https://coded-bio.vercel.app/'
 languageCode = 'en-us'
 title = 'CODEDbio'
