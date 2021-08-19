@@ -1,5 +1,5 @@
 ---
-title: "Hello" # Replace this with your file name
+title: "Mizuhara" # Replace this with your file name
 draft: false # Don't touch this X(
 bgcolor: "" # default is "black"
 textcolor: "white" # If you dont change this Defalult is white , if you use light color for bg leave it empty or if you you use dark color for bg use light color
