@@ -11,7 +11,7 @@
 </div>
 
 <div class="centeritem">
-    {{if eq userpic empty}}
+    {{if eq $userpic $empty}}
     <img src="{{.Site.BaseURL}}images/default.png" alt="{{.Params.name}}'s user pic">
     {{else}}
     <img src="{{.Params.userpic}}" alt="{{.Params.name}}'s user pic">
