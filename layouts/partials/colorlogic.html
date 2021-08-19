@@ -1,0 +1,8 @@
+{{ $empty := ""}}
+{{ $bgcolor := .Params.bgcolor}}
+
+{{ if eq $empty $bgcolor}}
+<body style="background-color:black; color:{{ .Params.textcolor}};"></body>
+{{else}}
+<body style="background-color: {{ .Params.bgcolor}}; color:{{ .Params.textcolor}};"></body>
+{{end}}

@@ -1,0 +1,31 @@
+<!-- Don't inspect this shitty code -->
+
+{{ partial "single" .}}
+{{ partial "colorlogic" .}}
+
+<div class="centeritem"> 
+<h1>{{.Params.name}}</h1>{{ partial "verified" .}}
+</div>
+
+<div class="centeritem">
+    <img src="{{.Params.userpic}}" alt="{{.Params.name}}'s user pic">
+</div>
+
+<div class="centeritem">
+    <h2>You know me as <i>{{.Params.name}}</i></h2>
+</div>
+
+<div class="centeritem">
+    <h2>I'm <i>{{.Params.status}}</i></h2>
+</div>
+
+<div class="content">
+    <h1 style="font-size: 35px;">About me</h1>
+    {{.Content}}
+</div>
+
+<div class="buttonbar">
+    {{ partial "buttons" .}}
+</div>
+
+<div class="centeritem"> {{partial "footer" .}}  </div>

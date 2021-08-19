@@ -1,0 +1,33 @@
+{{ $empty := ""}}
+{{ $twitter := .Params.twitter}}
+{{ $telegram := .Params.telegram}}
+{{ $github := .Params.github}}
+{{ $youtube := .Params.youtube}}
+{{ $buymeacoffee := .Params.buymeacoffee}}
+{{ $patreon := .Params.patreon}}
+   
+   
+    {{ if eq $empty $twitter }}
+    {{else}}
+    <button onclick="location.href='https://twitter.com/{{.Params.twitter}}'" type="button" class="twitter"></button>
+    {{end}}
+    {{ if eq $empty $telegram }}
+    {{else}}
+    <button onclick="location.href='https://t.me/{{.Params.telegram}}'" type="button" class="telegram"></button>
+    {{end}}
+    {{ if eq $empty $github }}
+    {{else}}
+    <button onclick="location.href='https://github.com/{{.Params.github}}'" type="button" class="github"></button>
+    {{end}}
+    {{ if eq $empty $youtube }}
+    {{else}}
+    <button onclick="location.href='https://youtube.com/{{.Params.youtube}}'" type="button" class="youtube"></button>
+    {{end}}
+    {{ if eq $empty $buymeacoffee }}
+    {{else}}
+    <button onclick="location.href='https://buymeacoffee.com/{{.Params.buymeacoffee}}'" type="button" class="coffee"></button>
+    {{end}}
+    {{ if eq $empty $patreon }}
+    {{else}}
+    <button onclick="location.href='https://patreon.com/{{.Params.patreon}}'" type="button" class="patreon"></button>
+    {{end}}
