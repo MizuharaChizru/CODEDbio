@@ -3,7 +3,7 @@ title: "Hello" # Replace this with your file name
 
 draft: false # Don't touch this X(
 
-bgcolor: "Skyble" # Default is "black"
+bgcolor: "Skyblue" # Default is "black"
 
 textcolor: "black" # If you don't change this Defalult is white , if you use light color for bg leave it empty or if you you use dark color for bg use light color
 
