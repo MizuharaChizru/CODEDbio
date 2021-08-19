@@ -91,7 +91,7 @@ patreon: "kurzgesagt"
 
 ### Watch this video
 
-<a href="">Create file and create Pull request</a>
+<a href="https://drive.google.com/file/d/1B9cLdbofosEG0CNmMJOhoa9lZenMk0IV/view?usp=drivesdk">Video Tutorial</a>
 
 **Important your filename is your url**
 
