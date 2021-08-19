@@ -89,6 +89,6 @@ footer a{
     font-family: 'Handlee', cursive;
 }
 ::selection{
-  background-size: #FFFFFF;
+  background-color: #FFFFFF;
   color:#FF135E;
 }
