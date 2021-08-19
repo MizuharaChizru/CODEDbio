@@ -102,3 +102,6 @@ footer a{
   background-color: #FFFFFF;
   color:#FF135E;
 }
+code{
+  max-width:70vw;
+}
